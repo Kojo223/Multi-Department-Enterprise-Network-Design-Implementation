@@ -1,0 +1,2 @@
+# Multi-Department-Enterprise-Network-Design-Implementation
+Designed and deployed a scalable local area network (LAN) within Cisco Packet Tracer to facilitate secure and efficient communication between distinct networks and departments. The project focused on logical segmentation, IP address management, Inter-VLAN Routing, DHCP Server setup and Layer 3 routing to ensure seamless end-to-end connectivity.
